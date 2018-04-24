@@ -1,5 +1,5 @@
 # UniversityHack-2018-Cajamar
-Desarrollo de la solución que nos permitió conseguir el primer premio del Datathon Cajamar UniversityHack 2018.
+Desarrollo de la solución que nos permitió conseguir el primer premio del Datathon Cajamar UniversityHack 2018. El equipo estaba formado por Francisco Javier, Vilchez Raúl Lopez y David Jiménez.
 
 ## Reto Salesforce Predictive Modelling
 
